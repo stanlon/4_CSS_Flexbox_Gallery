@@ -22,5 +22,8 @@ Notes:
 
 - The justify-content property determines how the items inside a flex container are positioned along the main axis, affecting their position and the space around them.
 
+- The align-items property positions the flex content along the cross axis. 
+    - In this case, with your flex-direction set to row, your cross axis would be vertical.
+
     
 
