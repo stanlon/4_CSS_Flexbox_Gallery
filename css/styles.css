@@ -40,3 +40,8 @@ Any direct children of a flex container are called flex items. */
     object-fit: cover;
     border-radius: 10px;
   }
+
+  .gallery::after {
+    content: "";
+    width: 350px;
+  }
