@@ -29,7 +29,7 @@ Any direct children of a flex container are called flex items. */
     align-items: center;
     padding: 20px 10px;
     max-width: 1400px;
-    
+    margin: 0 auto;
 }
 
 .gallery img {
