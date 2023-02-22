@@ -20,7 +20,7 @@ Notes:
     - Setting it to wrap will allow the items to wrap to the next row or column.
     - nowrap (default) will prevent your items from wrapping and shrink them if needed.
 
-
+- The justify-content property determines how the items inside a flex container are positioned along the main axis, affecting their position and the space around them.
 
     
 
