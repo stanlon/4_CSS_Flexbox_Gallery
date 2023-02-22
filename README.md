@@ -30,5 +30,9 @@ Notes:
     - Use the object-fit property and set it to cover. 
     - This will tell the image to fill the img container while maintaining aspect ratio, resulting in cropping to fit.
 
+- The gap CSS shorthand property sets the gaps, also knowns as gutters, between rows and columns. 
+    - The gap property and its row-gap and column-gap sub-properties provide this functionality for flex, grid, and multi-column layout.
+    - You apply the property to the container element.
+
     
 
