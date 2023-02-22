@@ -26,6 +26,7 @@ Any direct children of a flex container are called flex items. */
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 .gallery img {
