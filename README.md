@@ -25,5 +25,10 @@ Notes:
 - The align-items property positions the flex content along the cross axis. 
     - In this case, with your flex-direction set to row, your cross axis would be vertical.
 
+- Images may become distorted. This is because the images have different aspect ratios.  
+    - Use the object-fit property to determine how images should behave.
+    - Use the object-fit property and set it to cover. 
+    - This will tell the image to fill the img container while maintaining aspect ratio, resulting in cropping to fit.
+
     
 
