@@ -36,4 +36,5 @@ Any direct children of a flex container are called flex items. */
     width: 100%;
     max-width: 350px;
     height: 300px;
+    object-fit: cover;
   }
